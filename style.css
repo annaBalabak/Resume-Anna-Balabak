@@ -363,7 +363,7 @@ h1 {
 	background-clip: text;
 	-webkit-background-clip: text;
 	color: transparent;
-	background-image: url("mesh.png");
+	background-image: url("img/mesh.png");
 	background-position: center center;
 	background-size: contain;
 }
