@@ -824,7 +824,7 @@ justify-content: space-evenly;
   border-radius: 50%;
   content: "";
   box-sizing: content-box;
-  box-shadow: 0 0 0 3px rgb(194, 5, 128);
+  box-shadow: 0 0 0 3px rgb(5, 194, 194);
   top: 0;
   left: 0;
   opacity: 0;
